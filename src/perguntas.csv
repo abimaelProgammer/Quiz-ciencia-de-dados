@@ -1,0 +1,31 @@
+id,pergunta,resposta1,resposta2,resposta3,resposta4,id_resposta,categoria
+1,Qual é a medida de tendência central que representa o valor mais frequente em um conjunto de dados?,Média,Mediana,Moda,Variância,3,Estatística
+2,Qual gráfico é mais adequado para mostrar a distribuição de frequências de uma variável categórica?,Histograma,Boxplot,Gráfico de barras,Gráfico de dispersão,3,Estatística
+3,O desvio padrão mede:,A posição dos dados,A variabilidade dos dados,A média dos dados,A moda dos dados,2,Estatística
+4,"Em uma distribuição normal, aproximadamente 68% dos dados estão dentro de:",1 desvio padrão,2 desvios padrão,3 desvios padrão,4 desvios padrão,1,Estatística
+5,O valor-p em um teste de hipóteses indica:,A probabilidade de H0 ser verdadeira,A probabilidade de observar os dados se H0 for verdadeira,O nível de significância fixado,A média da amostra,2,Estatística
+6,Qual comando SQL é usado para selecionar dados de uma tabela?,SELECT,INSERT,UPDATE,DELETE,1,Banco de Dados
+7,Qual comando SQL é usado para adicionar novos registros em uma tabela?,INSERT,ALTER,SELECT,DROP,1,Banco de Dados
+8,"Em SQL, qual cláusula é usada para filtrar registros com base em uma condição?",WHERE,FROM,ORDER BY,GROUP BY,1,Banco de Dados
+9,Qual tipo de chave garante unicidade em uma tabela relacional?,Chave estrangeira,Chave primária,Índice,Constraint CHECK,2,Banco de Dados
+10,"Em SQL, qual comando é usado para remover permanentemente uma tabela do banco de dados?",REMOVE,DELETE,DROP,TRUNCATE,3,Banco de Dados
+11,Qual biblioteca Python é amplamente utilizada para análise de dados tabulares?,Matplotlib,NumPy,Pandas,Scikit-learn,3,Ciência de Dados
+12,Qual técnica é usada para reduzir a dimensionalidade dos dados?,Regressão Linear,PCA,KNN,Random Forest,2,Ciência de Dados
+13,O que é overfitting em machine learning?,O modelo generaliza bem,O modelo é muito simples,O modelo aprende ruídos do treino,O modelo não converge,3,Ciência de Dados
+14,Qual métrica é mais adequada para avaliar modelos de classificação em dados desbalanceados?,Acurácia,Precisão,Recall,Erro quadrático médio,3,Ciência de Dados
+15,"No contexto de aprendizado de máquina, o conjunto de teste serve para:",Treinar o modelo,Avaliar o modelo,Selecionar hiperparâmetros,Reduzir dimensionalidade,2,Ciência de Dados
+16,"Em Python, qual função retorna o número de elementos de uma lista?",count(),size(),len(),length(),3,Programação
+17,Qual estrutura de dados Python armazena pares chave-valor?,List,Tuple,Dictionary,Set,3,Programação
+18,Qual palavra-chave em Python define uma função?,func,def,lambda,function,2,Programação
+19,Qual operador em Python verifica igualdade de valores?,=,==,!=,equals,2,Programação
+20,Qual dessas estruturas armazena apenas elementos únicos em Python?,List,Set,Tuple,Dictionary,2,Programação
+21,"Em um boxplot, a linha central dentro da caixa representa:",A média,A mediana,O desvio padrão,O valor máximo,2,Estatística
+22,O coeficiente de correlação de Pearson varia entre:,-1 e 1,0 e 1,-∞ e ∞,0 e ∞,1,Estatística
+23,Qual teste estatístico é usado para comparar médias de dois grupos independentes?,Qui-quadrado,Teste t de Student,ANOVA,Teste de Levene,2,Estatística
+24,"Quando o valor-p é menor que o nível de significância, concluímos que:",Aceitamos H0,Rejeitamos H0,Aceitamos H1 sem dúvidas,Não há decisão,2,Estatística
+25,A variância é definida como:,Raiz quadrada do desvio padrão,Quadrado do desvio padrão,Média dos desvios ao quadrado em relação à média,Diferença entre máximo e mínimo,3,Estatística
+26,Qual tipo de relacionamento existe entre duas tabelas ligadas por chave estrangeira?,Um-para-um,Um-para-muitos,Muitos-para-um,Todos os anteriores são possíveis,4,Banco de Dados
+27,Qual comando SQL é usado para atualizar valores de uma tabela?,MODIFY,CHANGE,UPDATE,ALTER,3,Banco de Dados
+28,Qual comando SQL retorna apenas registros distintos?,DISTINCT,UNIQUE,FILTER,LIMIT,1,Banco de Dados
+29,"Em bancos de dados relacionais, a normalização serve para:",Aumentar redundância,Reduzir redundância,Aumentar complexidade,Diminuir integridade,2,Banco de Dados
+30,Qual comando SQL é usado para ordenar registros em uma consulta?,GROUP BY,ORDER BY,SORT,RANK,2,Banco de Dados
